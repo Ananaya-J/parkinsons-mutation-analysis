@@ -54,7 +54,7 @@ Ensure the following tools and libraries are installed:
 2. **Download** PPMI whole exome data as specified in the workflow.
 3. **Run preprocessing, filtering, and annotation steps** using the provided commands.
 4. **Execute** custom Python scripts (`mutation.py`, `check.py`, `Novel.py`) for mutation analysis.
-5. **Perform molecular dynamics simulations** using `modified-md-script.sh`.
+5. **Perform molecular dynamics simulations** using `wt_md_run.sh and mut_md_run.sh`.
 6. **Analyze the results** with a focus on **RMSD, TANGO, and RMSF**.
 
 ## Results
