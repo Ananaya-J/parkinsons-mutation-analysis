@@ -31,7 +31,7 @@ table_annovar.pl normalized.vcf humandb/ -buildver hg19 -out annotated -protocol
 
 
 ### 5. Molecular Dynamics Simulations
-- **Executed** `modified-md-script.sh` with the following parameters:
+- **Executed** `wt_md_run.sh and mut_md_run.sh` with the following parameters:
   - 50,000 steps of **energy minimization**
   - **NVT equilibration** at **300K**
   - **Production run** (extendable as needed)
